@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "triple-router-156007",
+  "private_key_id": "a412821f435bf804dd85df417f0c85729181c6b2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIkLYhMedJnXvt\n2/ld2gcqImdxhdYRhokyBcksM/YNllRm4q+1fjMG97M1pmhQJ8ZzRGd/UEmfFq4R\nRQ3UquGhIWycTZwLTx+LuEa6e482ri+nGKgzcYROj20G+qwI+RBNlGorPck/KRxV\nXHA5X7SNnapL0umc1/983WEfAVc4SqFSmBHzsxh4fP+jbMmzw5md+JcSauC1sMhA\nntLqW5ikPD1qqkz11lXqC00mZif+nikAsHJBRIWj3E7CuuC4h/wXgCJnhttuhwoV\n4TxMapgTod5OkpZgJkTg1TVxAvghgvjg0TqZh+dfpW4tvNgYU67IiJZ2Ipdxykvm\n3EriGshfAgMBAAECggEAYbXehR2CyGJo1eCtBAQMKYLJUo0ZVUBt5mjbMSW/Ya8z\nP0yAvbLVuTdDn4eKmkJGdDGHGodK1q597vvtWQZHFfDqsNs+gmPxwmfsTT2U79a8\ncHOavjU3d+5390Z4OYbdYm5Dqv1W5eZpX0zBf7IYjEWbiYUfOsIgPfy8LBbDHzCe\nlPQc/SiZ5lDbFeqY+F+vbm5A9l5Wim8c6DcKVL69eg0mshhOvGQcGsidNrQtlOm9\nC4vCjRihrhHBgIoDl4sCDefwSUNISRgtdyKXXfoQYiLBr9N4zY7OB2tWXwN/iWoj\ncEI7vOASpWqwsJVxGZU1Eg1MdbOQRCvxi3ITYnWaAQKBgQD7vu+1f9fklR2dgVWg\neN9JOUxx8OUUmH+QrjLkYgZpN5Qg53h05/G7tW4SLB5zpVkS43SnPc4McTqatOZJ\nc/gaLUiGTtfmssqnl1HyMXpEn8spG7RLLJhi+guENKHLZx1q/dW5iCxDAjsURwyR\nuygd5iU4sMJJ/UQPamN5G004oQKBgQDL9F2eD9/kjOJKaNw4qj27l/E7vKEVXFQ+\nwvJ8dB5jX//Kae4JaGC3uIVuz84uR0AyGlcyqfS4Ij9PM2QMcm+7veClALqeKuTv\nfTZVU3A+L+J6zoFX9TWG5RvxbOv+ohKTo/J97o+qvD36fgUf0i7ZHeUkZuQzGA8C\noggQJxNg/wKBgQC+juFUOdlqJZWtS+FM/zHFc6Hx/a7p0CV/ltzfE3RW4MM3xP7h\nP1E0DTmsd8j1MQwjyBjdH2OA95Ss1pIat7Xt2qkzQSscbeoIwfo9okYy++IE0/u9\ni5wuD6f4Av8VwI/8FPha4EDg2CdwSfexuEG9oCA8sU/gQd3q7VUurwPdAQKBgFQ7\nFbbDo5nGPWaxq9GTLW+eLriXDIe/2+MXrAGOC0bLTN6RpQcpnlgB0smS9PnT30VR\n75Uy76hkLHVPKhCh6ldE8dPzWx8bY/UsZxYSIZbtO8GwK2biFDsjv8iTTVuaH8Xt\nvaYYsii3GXmsNf2QVlzApfPEspYPZ5OUy3OwT6aNAoGBAIKfkp2V87c9+TBXGnKQ\nUkAdA5XBJ56aqEYW/jbWbYwmUlqC+fvpPH9VH39eWJu9wo7CEVLJDB0CSFNVda/a\nFLSZl7mN9NH2bSZ/c1kdyaFzGG7/ixmlGzrn/TWteev4jnGcogIYthdz+Z8Vsf+H\nwS+XmH19EAskoyVmrhxmJpVQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "filetransfer@triple-router-156007.iam.gserviceaccount.com",
+  "client_id": "102030261092167733620",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/filetransfer%40triple-router-156007.iam.gserviceaccount.com"
+}
